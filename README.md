@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C, Python**
 
-- 💬 Ask me about **Java,C,Python**
+- 💬 Ask me about **Java,C,Python,HTML,CSS**
 
 - 📫 How to reach me **deviprasad.duddu304@gmail.com**
 
